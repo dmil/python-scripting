@@ -1,0 +1,7 @@
+ipykernel
+ipython
+ipywidgets
+jupyter
+notebook
+pandas
+tqdm
